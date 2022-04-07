@@ -1,0 +1,1 @@
+This is simple webApp using HTML, CSS, JAVASCRIPT for creating interactive periodic table 

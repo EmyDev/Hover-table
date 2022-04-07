@@ -1,0 +1,23 @@
+body { font-size: 150%;}
+h1{text-align: center;}
+table.table1{ background-color: beige; width: 100%; text-align: left;}
+table.periodicsys td { width: 2em; padding: 15px 10px; text-align: center;}
+table.periodicsys td.no-thing {border: 1px; background-color: 0;}
+table.periodicsys {background-color:rgb(215, 245, 242);}
+td.col1 { background-color: rgb(253, 204, 112); }
+td.col2 {background-color: rgb(247, 247, 119);}
+td.col3 {background-color: rgb(202, 105, 118);}
+td.col4 {background-color: rgb(119, 238, 238);}
+td.col5 {background-color: rgb(226, 130, 194);}
+td.col6 {background-color: rgb(68, 40, 168);}
+td.col7 {background-color: rgb(85, 29, 62);}
+td.col8 {background-color:aquamarine;}
+td.col9 {background-color:cadetblue;}
+td.col0 {background-color:coral;}
+td.col11 {background-color:crimson;}
+td.col12 {background-color:bisque;}
+td.col13 {background-color:blueviolet;}
+td.col14 {background-color:darkgreen;}
+td.col15 {background-color:goldenrod;}
+td.col16{ background-color: rgb(154, 243, 173);}
+td.col17{ background-color: rgb(245, 96, 245);}
